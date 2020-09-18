@@ -1,2 +1,2 @@
 var date = document.lastModified;
-document.write("" + date);
+document.write(" " + date);
